@@ -1,0 +1,23 @@
+.list {
+  list-style: circle;
+  padding-left: 15px;
+}
+
+.listItem {
+  margin-bottom: 6px;
+}
+
+.button {
+  cursor: pointer;
+  align-self: center;
+  background-color: white;
+  border: 0.3px solid grey;
+  height: 20px;
+  margin-left: 10px;
+  border-radius: 10px;
+}
+
+.button:hover {
+  background-color: grey;
+  color: white;
+}
